@@ -1,0 +1,794 @@
+customer_id,segment_id,customer_name,region_id,state_id,city
+AB-10015,1,Aaron Bergman,2,5,Seattle
+AH-10030,2,Aaron Hawkins,4,10,Philadelphia
+AS-10045,2,Aaron Smayling,1,4,Jacksonville
+AB-10060,3,Adam Bellavance,4,16,New York City
+AH-10075,2,Adam Hart,4,16,New York City
+AS-10090,1,Adam Shillingsburg,1,18,Charlottesville
+AB-10105,1,Adrian Barton,2,17,Phoenix
+AH-10120,3,Adrian Hane,2,17,Tucson
+AS-10135,3,Adrian Shami,4,16,New York City
+AB-10150,1,Aimee Bixby,4,16,Long Beach
+AB-10165,1,Alan Barnes,2,2,Los Angeles
+AD-10180,3,Alan Dominguez,3,6,Houston
+AH-10195,2,Alan Haines,1,3,Tamarac
+AH-10210,1,Alan Hwang,2,2,Brentwood
+AS-10225,2,Alan Schoenberger,4,16,New York City
+AS-10240,1,Alan Shonely,1,3,Tampa
+AB-10255,3,Alejandro Ballentine,4,24,Lorain
+AG-10270,1,Alejandro Grove,2,8,West Jordan
+AS-10285,2,Alejandro Savely,2,2,San Francisco
+AG-10300,2,Aleksandra Gannaway,2,2,Los Angeles
+AA-10315,1,Alex Avila,3,12,Minneapolis
+AG-10330,1,Alex Grayson,2,2,Stockton
+AR-10345,2,Alex Russell,4,31,Lawrence
+AM-10360,2,Alice McCarthy,3,6,Grand Prairie
+AA-10375,1,Allen Armold,2,17,Mesa
+AG-10390,1,Allen Goldenen,4,24,Cincinnati
+AR-10405,2,Allen Rosenblatt,4,31,Franklin
+AC-10420,2,Alyssa Crouse,2,2,San Francisco
+AT-10435,3,Alyssa Tate,2,2,Los Angeles
+AC-10450,1,Amy Cox,3,12,Minneapolis
+AH-10465,1,Amy Hunt,4,16,New York City
+AA-10480,1,Andrew Allen,1,4,Concord
+AG-10495,2,Andrew Gjertsen,4,10,Philadelphia
+AR-10510,1,Andrew Roberts,4,10,Philadelphia
+AG-10525,2,Andy Gerbode,1,3,Saint Petersburg
+AR-10540,1,Andy Reiter,4,16,New York City
+AY-10555,2,Andy Yotov,2,2,Oceanside
+AR-10570,1,Anemone Ratner,1,32,Columbus
+AH-10585,1,Angele Hood,3,11,Chicago
+AB-10600,2,Ann Blume,2,17,Tucson
+AC-10615,2,Ann Chong,4,16,New York City
+AS-10630,3,Ann Steele,3,6,Pasadena
+AA-10645,1,Anna Andreadi,4,10,Chester
+AC-10660,1,Anna Chung,3,6,Huntsville
+AG-10675,1,Anna Gayman,3,6,Houston
+AH-10690,2,Anna Häberlin,4,16,New York City
+AM-10705,1,Anne McFarland,1,20,Auburn
+AP-10720,3,Anne Pryor,4,16,New York City
+AT-10735,1,Annie Thurman,2,5,Seattle
+AZ-10750,1,Annie Zypern,4,16,New York City
+AG-10765,3,Anthony Garverick,4,10,Philadelphia
+AJ-10780,2,Anthony Jacobs,1,18,Springfield
+AJ-10795,2,Anthony Johnson,1,3,Saint Petersburg
+AO-10810,2,Anthony O'Donnell,2,2,Los Angeles
+AR-10825,2,Anthony Rawles,2,5,Vancouver
+AW-10840,1,Anthony Witt,3,6,Allen
+AI-10855,1,Arianne Irving,4,10,Philadelphia
+AF-10870,1,Art Ferguson,3,6,College Station
+AF-10885,1,Art Foster,1,1,Louisville
+AG-10900,1,Arthur Gainer,2,17,Tucson
+AP-10915,1,Arthur Prichep,1,3,Palm Coast
+AW-10930,3,Arthur Wiediger,3,11,Aurora
+AJ-10945,1,Ashley Jarboe,1,4,Wilmington
+AJ-10960,1,Astrea Jones,4,16,Rochester
+BF-10975,2,Barbara Fisher,1,4,Charlotte
+BB-10990,2,Barry Blumstein,2,2,Inglewood
+BF-11005,3,Barry Franz,2,2,Pasadena
+BF-11020,2,Barry Französisch,3,7,Green Bay
+BG-11035,1,Barry Gonzalez,1,28,Monroe
+BP-11050,2,Barry Pond,4,34,Cranston
+BW-11065,1,Barry Weirich,1,4,Raleigh
+BF-11080,1,Bart Folk,4,37,Baltimore
+BP-11095,2,Bart Pistole,3,11,Peoria
+BW-11110,2,Bart Watters,3,7,Milwaukee
+BC-11125,3,Becky Castell,2,17,Peoria
+BM-11140,1,Becky Martin,3,6,San Antonio
+BP-11155,1,Becky Pak,1,32,Columbus
+BF-11170,3,Ben Ferrer,2,2,Los Angeles
+BP-11185,2,Ben Peterman,2,22,Arvada
+BW-11200,1,Ben Wallace,1,3,Boynton Beach
+BF-11215,3,Benjamin Farhat,2,27,Albuquerque
+BP-11230,1,Benjamin Patterson,2,5,Spokane
+BV-11245,2,Benjamin Venier,3,23,Des Moines
+BK-11260,1,Berenike Kampe,4,16,New York City
+BF-11275,2,Beth Fritzler,2,17,Tucson
+BP-11290,1,Beth Paige,3,11,Evanston
+BT-11305,3,Beth Thompson,2,2,Costa Mesa
+BD-11320,1,Bill Donatelli,2,2,San Francisco
+BE-11335,3,Bill Eplett,3,13,Jackson
+BO-11350,2,Bill Overfelt,2,2,Los Angeles
+BS-11365,2,Bill Shonely,4,16,New York City
+BS-11380,2,Bill Stewart,3,11,Skokie
+BT-11395,2,Bill Tyler,3,13,Detroit
+BE-11410,1,Bobby Elias,4,24,Lancaster
+BO-11425,1,Bobby Odegard,1,1,Richmond
+BT-11440,1,Bobby Trafton,2,22,Littleton
+BE-11455,3,Brad Eason,3,39,Olathe
+BN-11470,2,Brad Norvell,1,4,Cary
+BT-11485,3,Brad Thomas,4,37,Clinton
+BD-11500,1,Bradley Drucker,3,7,Green Bay
+BN-11515,1,Bradley Nguyen,2,2,Los Angeles
+BT-11530,3,Bradley Talbott,2,2,Los Angeles
+BB-11545,2,Brenda Bowman,3,6,Houston
+BD-11560,3,Brendan Dodson,2,2,Fresno
+BM-11575,2,Brendan Murry,4,16,New York City
+BS-11590,2,Brendan Sweed,2,17,Gilbert
+BD-11605,1,Brian Dahlen,4,31,Lawrence
+BD-11620,1,Brian DeCherney,2,2,San Francisco
+BD-11635,1,Brian Derr,1,1,Bowling Green
+BM-11650,2,Brian Moss,4,16,New York City
+BS-11665,1,Brian Stugart,4,10,Philadelphia
+BT-11680,1,Brian Thompson,4,24,Newark
+BG-11695,2,Brooke Gillingham,4,24,Cincinnati
+BH-11710,1,Brosina Hoffman,2,2,Los Angeles
+BD-11725,1,Bruce Degenhardt,1,1,Richmond
+BG-11740,1,Bruce Geld,4,10,Philadelphia
+BS-11755,1,Bruce Stewart,2,22,Denver
+BD-11770,1,Bryan Davis,3,6,Houston
+BM-11785,1,Bryan Mills,4,24,Columbus
+BS-11800,3,Bryan Spruell,4,16,New York City
+CM-11815,2,Candace McMahon,3,6,Pasadena
+CS-11845,2,Cari Sayre,2,5,Seattle
+CS-11860,1,Cari Schnelling,1,4,Jacksonville
+CJ-11875,2,Carl Jackson,4,10,Philadelphia
+CL-11890,1,Carl Ludwig,4,31,Everett
+CW-11905,3,Carl Weiss,3,6,Huntsville
+CD-11920,1,Carlos Daly,2,2,Lake Elsinore
+CM-11935,1,Carlos Meador,1,4,Fayetteville
+CS-11950,1,Carlos Soltero,3,11,Chicago
+CA-11965,2,Carol Adams,1,20,Hoover
+CD-11980,1,Carol Darley,3,6,Tyler
+CT-11995,1,Carol Triggs,3,12,Rochester
+CJ-12010,1,Caroline Jumper,2,2,Huntington Beach
+CB-12025,1,Cassandra Brandow,4,24,Hamilton
+CG-12040,3,Catherine Glotzbach,4,10,Philadelphia
+CA-12055,3,Cathy Armstrong,3,6,Houston
+CH-12070,3,Cathy Hwang,1,4,Raleigh
+CP-12085,2,Cathy Prescott,4,29,Norwich
+CC-12100,3,Chad Cunningham,3,15,Columbus
+CM-12115,1,Chad McGuire,4,16,New York City
+CS-12130,1,Chad Sievert,2,2,Los Angeles
+CC-12145,1,Charles Crestani,2,2,Los Angeles
+CM-12160,1,Charles McCrossin,3,6,Brownsville
+CS-12175,2,Charles Sheldon,1,19,Columbia
+CM-12190,1,Charlotte Melton,4,10,Philadelphia
+CK-12205,1,Chloris Kastensmidt,4,10,Philadelphia
+CC-12220,1,Chris Cortes,3,15,La Porte
+CM-12235,1,Chris McAfee,3,6,Carrollton
+CS-12250,2,Chris Selesnick,1,28,Bossier City
+CA-12265,1,Christina Anderson,3,11,Chicago
+CD-12280,1,Christina DeMoss,2,5,Seattle
+CV-12295,1,Christina VanderZanden,2,2,Fresno
+CA-12310,2,Christine Abelman,4,24,Cincinnati
+CK-12325,3,Christine Kargatis,2,8,Orem
+CP-12340,2,Christine Phan,4,16,New York City
+CS-12355,1,Christine Sundaresam,1,32,Roswell
+CC-12370,1,Christopher Conant,1,4,Fayetteville
+CM-12385,1,Christopher Martinez,1,32,Atlanta
+CS-12400,3,Christopher Schild,3,11,Chicago
+CB-12415,1,Christy Brittain,4,24,Columbus
+CC-12430,3,Chuck Clark,3,15,Columbus
+CM-12445,1,Chuck Magee,2,2,San Francisco
+CS-12460,1,Chuck Sachs,1,32,Columbus
+CC-12475,1,Cindy Chapman,4,16,New York City
+CS-12490,2,Cindy Schnelling,3,6,Conroe
+CS-12505,1,Cindy Stewart,1,4,Thomasville
+CG-12520,1,Claire Gute,1,1,Henderson
+CB-12535,2,Claudia Bergmann,1,4,Chapel Hill
+CC-12550,1,Clay Cheatham,2,2,San Francisco
+CL-12565,1,Clay Ludtke,3,23,Urbandale
+CR-12580,3,Clay Rozendal,3,11,Elmhurst
+CK-12595,1,Clytie Kelty,4,24,Grove City
+CC-12610,2,Corey Catlett,4,10,Philadelphia
+CR-12625,3,Corey Roper,4,30,Lakewood
+Co-12640,1,Corey-Lock,4,10,Philadelphia
+CM-12655,3,Corinna Mitchell,2,2,Los Angeles
+CC-12670,1,Craig Carreira,4,16,New York City
+CC-12685,1,Craig Carroll,1,4,Greensboro
+CL-12700,3,Craig Leslie,3,25,Springfield
+CM-12715,2,Craig Molinari,3,6,Huntsville
+CR-12730,1,Craig Reiter,4,24,Columbus
+CY-12745,2,Craig Yedwab,2,2,Oakland
+CK-12760,2,Cyma Kinney,4,30,Linden
+CA-12775,1,Cynthia Arntzen,1,3,Tampa
+CD-12790,3,Cynthia Delaney,2,2,San Diego
+CV-12805,2,Cynthia Voltz,4,16,New York City
+CR-12820,3,Cyra Reiten,4,16,New York City
+DK-12835,2,Damala Kotsonis,2,2,Salinas
+DC-12850,1,Dan Campbell,1,20,Florence
+DL-12865,1,Dan Lawera,4,24,Cincinnati
+DR-12880,2,Dan Reichenbach,3,11,Chicago
+DK-12895,1,Dana Kaydos,3,7,Kenosha
+DB-12910,3,Daniel Byrd,1,3,Tampa
+DL-12925,1,Daniel Lacy,2,2,Oceanside
+DR-12940,3,Daniel Raglin,4,31,Franklin
+DM-12955,2,Dario Medina,3,13,Lincoln Park
+DB-12970,2,Darren Budd,2,2,Los Angeles
+DK-12985,1,Darren Koutras,1,1,Henderson
+DP-13000,1,Darren Powers,3,15,New Albany
+DM-13015,1,Darrin Martin,2,2,Encinitas
+DS-13030,3,Darrin Sayre,2,5,Seattle
+DV-13045,2,Darrin Van Huff,2,2,Los Angeles
+DB-13060,1,Dave Brooks,2,5,Seattle
+DH-13075,2,Dave Hallsten,1,1,Richmond
+DK-13090,1,Dave Kipp,2,5,Seattle
+DP-13105,2,Dave Poirier,2,2,Salinas
+DB-13120,2,David Bremer,2,2,Santa Clara
+DF-13135,1,David Flashing,2,2,Vallejo
+DK-13150,2,David Kendrick,3,11,Decatur
+DP-13165,1,David Philippe,4,16,New York City
+DS-13180,2,David Smith,3,13,Detroit
+DW-13195,2,David Wiener,3,6,Houston
+DB-13210,1,Dean Braden,3,6,Houston
+DK-13225,2,Dean Katz,4,10,Philadelphia
+Dp-13240,3,Dean percer,2,8,Murray
+DE-13255,3,Deanra Eno,4,24,Springfield
+DB-13270,3,Deborah Brumfield,2,2,San Diego
+DC-13285,1,Debra Catini,3,12,Cottage Grove
+DG-13300,2,Deirdre Greer,4,10,Philadelphia
+DL-13315,1,Delfina Latchford,4,16,New York City
+DL-13330,1,Denise Leinenbach,2,27,Las Cruces
+DM-13345,2,Denise Monton,1,32,Roswell
+DB-13360,3,Dennis Bolton,4,16,New York City
+DK-13375,1,Dennis Kane,4,24,Marion
+DP-13390,3,Dennis Pardue,3,11,Peoria
+DB-13405,1,Denny Blanton,3,15,La Porte
+DJ-13420,2,Denny Joy,1,32,Warner Robins
+DO-13435,1,Denny Ordway,1,3,Pembroke Pines
+DA-13450,3,Dianna Arnett,3,6,Houston
+DV-13465,1,Dianna Vittorini,2,22,Denver
+DW-13480,3,Dianna Wilson,3,12,Lakeville
+DL-13495,2,Dionis Lloyd,2,2,San Francisco
+DJ-13510,2,Don Jones,1,19,Murfreesboro
+DM-13525,2,Don Miller,3,6,Houston
+DW-13540,1,Don Weiss,2,5,Seattle
+DB-13555,2,Dorothy Badders,1,3,Jacksonville
+DD-13570,1,Dorothy Dickinson,3,6,Houston
+DW-13585,2,Dorothy Wardle,4,24,Columbus
+Dl-13600,2,Dorris liebe,3,6,Pasadena
+DB-13615,1,Doug Bickford,2,2,Los Angeles
+DJ-13630,1,Doug Jacobs,4,16,New York City
+DO-13645,1,Doug O'Connell,2,2,Los Angeles
+DB-13660,1,Duane Benoit,4,16,Oceanside
+DH-13675,3,Duane Huffman,4,31,Quincy
+DN-13690,1,Duane Noonan,2,2,San Francisco
+EB-13705,2,Ed Braxton,4,24,Akron
+EJ-13720,1,Ed Jacobs,2,2,San Diego
+EL-13735,3,Ed Ludwig,4,37,Columbia
+EB-13750,2,Edward Becker,2,5,Seattle
+EH-13765,2,Edward Hooks,4,16,Watertown
+EN-13780,1,Edward Nazzal,4,16,New York City
+EK-13795,3,Eileen Kiefer,2,2,Santa Ana
+EM-13810,2,Eleni McCrary,2,2,Los Angeles
+EM-13825,2,Elizabeth Moffitt,3,41,Sioux Falls
+EB-13840,2,Ellis Ballard,2,5,Seattle
+ER-13855,2,Elpida Rittenbach,3,12,Saint Paul
+EB-13870,1,Emily Burns,2,8,Orem
+ED-13885,3,Emily Ducich,2,2,San Diego
+EG-13900,1,Emily Grady,4,16,Oceanside
+EP-13915,1,Emily Phan,3,11,Chicago
+EB-13930,1,Eric Barreto,2,2,San Francisco
+EH-13945,1,Eric Hoffmann,2,2,Los Angeles
+EM-13960,1,Eric Murdock,4,10,Philadelphia
+EB-13975,2,Erica Bern,2,2,Fairfield
+EH-13990,1,Erica Hackney,1,32,Roswell
+EH-14005,3,Erica Hernandez,2,22,Denver
+ES-14020,1,Erica Smith,2,2,San Francisco
+EA-14035,2,Erin Ashbrook,1,4,Charlotte
+EC-14050,1,Erin Creighton,4,16,New York City
+EM-14065,1,Erin Mull,4,16,New York City
+ES-14080,2,Erin Smith,1,3,Melbourne
+EM-14095,2,Eudokia Martin,2,2,Los Angeles
+EB-14110,1,Eugene Barchas,4,10,Philadelphia
+EH-14125,3,Eugene Hildebrand,3,11,Aurora
+EM-14140,3,Eugene Moren,2,17,Glendale
+EJ-14155,1,Eva Jacobs,1,35,Gulfport
+EB-14170,1,Evan Bailliet,1,4,Wilmington
+EH-14185,1,Evan Henry,1,20,Decatur
+EM-14200,3,Evan Minnotte,1,18,Virginia Beach
+FM-14215,2,Filia McAdams,4,24,Dublin
+FA-14230,2,Frank Atkinson,2,2,Long Beach
+FC-14245,3,Frank Carlisle,4,24,Lakewood
+FG-14260,3,Frank Gastineau,2,2,San Francisco
+FH-14275,2,Frank Hawley,3,15,La Porte
+FM-14290,3,Frank Merwin,2,2,Los Angeles
+FO-14305,1,Frank Olsen,4,16,New York City
+FP-14320,1,Frank Preis,2,2,Los Angeles
+FC-14335,2,Fred Chung,3,6,Mesquite
+FH-14350,1,Fred Harton,2,5,Seattle
+FH-14365,2,Fred Hopkins,4,10,Philadelphia
+FM-14380,1,Fred McMath,2,22,Aurora
+FW-14395,2,Fred Wasserman,1,20,Huntsville
+GH-14410,3,Gary Hansen,2,17,Glendale
+GH-14425,1,Gary Hwang,2,17,Tucson
+GM-14440,1,Gary McGarr,2,2,San Francisco
+GM-14455,3,Gary Mitchum,3,6,Houston
+GZ-14470,1,Gary Zandusky,3,12,Rochester
+GH-14485,2,Gene Hale,3,6,Richardson
+GM-14500,1,Gene McClure,4,34,Providence
+GA-14515,1,George Ashbrook,2,2,San Francisco
+GB-14530,2,George Bell,4,16,Auburn
+GZ-14545,2,George Zrebassa,4,31,Lawrence
+GR-14560,2,Georgia Rosenberg,2,2,San Francisco
+GB-14575,1,Giulietta Baptist,4,10,Philadelphia
+GD-14590,2,Giulietta Dortch,4,10,Philadelphia
+GW-14605,1,Giulietta Weimer,2,5,Seattle
+GK-14620,2,Grace Kelly,2,2,Hesperia
+GT-14635,2,Grant Thornton,1,4,Burlington
+GG-14650,2,Greg Guthrie,1,19,Bristol
+GH-14665,1,Greg Hansen,3,6,Round Rock
+GM-14680,1,Greg Matthias,2,5,Seattle
+GM-14695,2,Greg Maxwell,2,2,Los Angeles
+GT-14710,1,Greg Tran,3,6,Houston
+GA-14725,1,Guy Armstrong,4,24,Lorain
+GP-14740,2,Guy Phonely,4,10,Lancaster
+GT-14755,1,Guy Thornton,3,6,Harlingen
+HR-14770,3,Hallie Redmond,2,2,Los Angeles
+HD-14785,3,Harold Dahlen,4,10,Philadelphia
+HE-14800,2,Harold Engle,3,11,Chicago
+HP-14815,3,Harold Pawlan,3,6,Fort Worth
+HR-14830,2,Harold Ryan,2,5,Seattle
+HG-14845,1,Harry Greene,1,28,Lake Charles
+HM-14860,2,Harry Marie,4,10,Philadelphia
+HJ-14875,3,Heather Jas,1,3,Jacksonville
+HK-14890,2,Heather Kirkland,1,19,Franklin
+HA-14905,1,Helen Abelman,4,16,New York City
+HA-14920,1,Helen Andreada,2,2,Pasadena
+HW-14935,2,Helen Wasserman,2,2,San Diego
+HZ-14950,1,Henia Zydlo,4,24,Columbus
+HG-14965,2,Henry Goldwyn,2,2,Los Angeles
+HM-14980,1,Henry MacAllister,4,16,New York City
+HF-14995,1,Herbert Flentye,3,15,Indianapolis
+HH-15010,2,Hilary Holden,2,2,San Francisco
+HG-15025,1,Hunter Glantz,3,6,Amarillo
+HL-15040,1,Hunter Lopez,3,6,Houston
+IM-15055,1,Ionia McGrath,2,2,Roseville
+IM-15070,1,Irene Maddox,2,5,Seattle
+IG-15085,1,Ivan Gibson,2,2,San Diego
+IL-15100,1,Ivan Liston,2,2,San Francisco
+JG-15115,1,Jack Garza,2,5,Des Moines
+JL-15130,1,Jack Lebron,3,6,Houston
+JO-15145,2,Jack O'Briant,4,10,Philadelphia
+JG-15160,1,James Galang,2,2,Los Angeles
+JL-15175,3,James Lanier,1,19,Columbia
+JF-15190,1,Jamie Frazer,2,2,Los Angeles
+JK-15205,1,Jamie Kunitz,2,2,San Francisco
+JW-15220,2,Jane Waco,2,5,Vancouver
+JL-15235,1,Janet Lee,3,11,Chicago
+JM-15250,1,Janet Martin,1,4,Charlotte
+JM-15265,2,Janet Molinari,4,16,New York City
+JO-15280,1,Jas O'Carroll,2,2,Los Angeles
+JF-15295,1,Jason Fortune-,2,5,Seattle
+JG-15310,2,Jason Gross,4,34,Providence
+JK-15325,2,Jason Klamczynski,3,6,Dallas
+JC-15340,1,Jasper Cacioppo,2,2,Los Angeles
+JF-15355,1,Jay Fein,3,6,Austin
+JK-15370,1,Jay Kimmel,2,2,Long Beach
+JC-15385,1,Jenna Caffey,2,5,Kent
+JB-15400,2,Jennifer Braxton,3,11,Chicago
+JF-15415,1,Jennifer Ferguson,4,16,New York City
+JH-15430,1,Jennifer Halladay,1,4,Burlington
+JJ-15445,1,Jennifer Jackson,2,2,Los Angeles
+JP-15460,2,Jennifer Patt,4,16,Oceanside
+JE-15475,1,Jeremy Ellison,4,16,Troy
+JF-15490,1,Jeremy Farry,2,5,Seattle
+JL-15505,1,Jeremy Lonsdale,4,16,New York City
+JP-15520,1,Jeremy Pistek,2,2,San Francisco
+JM-15535,1,Jessica Myrick,4,10,Philadelphia
+JO-15550,3,Jesus Ocampo,4,10,Chester
+JF-15565,1,Jill Fjeld,3,6,Dallas
+JM-15580,1,Jill Matthias,1,4,Monroe
+JS-15595,2,Jill Stevenson,2,2,Los Angeles
+JE-15610,2,Jim Epp,3,7,Milwaukee
+JK-15625,1,Jim Karlsson,2,5,Seattle
+JK-15640,3,Jim Kriz,4,16,New York City
+JM-15655,2,Jim Mitchum,4,30,Bridgeton
+JR-15670,1,Jim Radford,4,29,Middletown
+JS-15685,2,Jim Sink,2,2,Los Angeles
+JR-15700,1,Jocasta Rupert,1,3,Jacksonville
+JE-15715,1,Joe Elijah,2,22,Broomfield
+JK-15730,1,Joe Kamberova,1,4,Asheville
+JE-15745,1,Joel Eaton,1,19,Memphis
+JJ-15760,3,Joel Jenkins,1,18,Springfield
+JC-15775,1,John Castell,3,6,San Antonio
+JD-15790,1,John Dryer,3,6,Coppell
+JG-15805,2,John Grady,4,16,New York City
+JH-15820,1,John Huston,4,24,Kent
+JL-15835,1,John Lee,2,2,Mission Viejo
+JL-15850,1,John Lucas,4,10,Philadelphia
+JM-15865,1,John Murray,4,16,Jamestown
+JS-15880,1,John Stevenson,2,5,Seattle
+JD-15895,2,Jonathan Doherty,4,10,Philadelphia
+JH-15910,1,Jonathan Howell,2,2,Los Angeles
+JB-15925,1,Joni Blumstein,4,24,Dublin
+JS-15940,3,Joni Sundaresam,3,11,Park Ridge
+JW-15955,1,Joni Wasserman,2,2,Oakland
+JA-15970,1,Joseph Airdo,2,17,Phoenix
+JH-15985,1,Joseph Holt,3,13,Saginaw
+JB-16000,1,Joy Bell-,3,6,Brownsville
+JD-16015,1,Joy Daniels,3,11,Chicago
+JS-16030,1,Joy Smith,3,6,Houston
+JB-16045,3,Julia Barnett,1,32,Columbus
+JD-16060,1,Julia Dunbar,2,2,San Francisco
+JW-16075,1,Julia West,4,10,Philadelphia
+JK-16090,1,Juliana Krohn,3,9,Omaha
+JC-16105,2,Julie Creighton,1,4,Durham
+JK-16120,3,Julie Kriz,3,11,Aurora
+JP-16135,3,Julie Prescott,1,32,Columbus
+JD-16150,2,Justin Deggeller,3,12,Minneapolis
+JE-16165,2,Justin Ellison,3,7,Franklin
+JH-16180,1,Justin Hirsh,2,22,Pueblo
+JM-16195,1,Justin MacKendrick,2,2,Los Angeles
+JR-16210,2,Justin Ritter,4,24,Springfield
+KM-16225,2,Kalyca Meade,4,16,New York City
+KB-16240,2,Karen Bern,2,2,Los Angeles
+KC-16255,2,Karen Carlisle,2,2,San Francisco
+KD-16270,1,Karen Daniels,1,18,Springfield
+KF-16285,3,Karen Ferguson,2,2,Manteca
+KS-16300,2,Karen Seio,2,8,Lehi
+KB-16315,1,Karl Braun,3,12,Minneapolis
+KH-16330,2,Katharine Harms,1,1,Bowling Green
+KD-16345,1,Katherine Ducich,2,2,San Francisco
+KH-16360,1,Katherine Hughes,4,10,Philadelphia
+KM-16375,3,Katherine Murray,1,18,Salem
+KN-16390,2,Katherine Nockton,2,2,Los Angeles
+KB-16405,3,Katrina Bavinger,2,2,Apple Valley
+KE-16420,2,Katrina Edelman,1,19,Bristol
+KW-16435,1,Katrina Willman,4,16,New York City
+KN-16450,2,Kean Nguyen,1,3,Jacksonville
+KT-16465,1,Kean Takahito,2,2,Los Angeles
+KT-16480,1,Kean Thornton,4,16,Buffalo
+KD-16495,2,Keith Dawkins,4,16,New York City
+KH-16510,1,Keith Herrera,2,2,San Francisco
+KA-16525,1,Kelly Andreada,2,2,Ontario
+KC-16540,1,Kelly Collister,2,2,San Diego
+KL-16555,2,Kelly Lampkin,2,22,Colorado Springs
+KW-16570,1,Kelly Williams,1,19,Clarksville
+KB-16585,2,Ken Black,3,9,Fremont
+KB-16600,2,Ken Brennan,3,6,Houston
+KD-16615,2,Ken Dana,2,17,Scottsdale
+KH-16630,2,Ken Heidel,3,6,San Antonio
+KL-16645,1,Ken Lonsdale,3,11,Chicago
+KM-16660,1,Khloe Miller,1,32,Roswell
+KC-16675,2,Kimberly Carter,2,5,Seattle
+KH-16690,2,Kristen Hastings,2,2,San Francisco
+KN-16705,3,Kristina Nunn,2,22,Fort Collins
+KM-16720,1,Kunst Miller,2,2,Los Angeles
+LB-16735,1,Larry Blacks,3,6,Fort Worth
+LH-16750,1,Larry Hughes,1,4,Charlotte
+LT-16765,1,Larry Tron,2,2,Escondido
+LA-16780,2,Laura Armstrong,3,13,Taylor
+LB-16795,3,Laurel Beltran,3,11,Highland Park
+LE-16810,1,Laurel Elliston,2,2,Whittier
+LW-16825,2,Laurel Workman,1,3,Deltona
+LL-16840,1,Lauren Leatherbury,4,16,Rochester
+LD-16855,2,Lela Donovan,3,11,Chicago
+LC-16870,1,Lena Cacioppo,2,22,Aurora
+LC-16885,1,Lena Creighton,2,2,Roseville
+LH-16900,1,Lena Hernandez,4,14,Dover
+LR-16915,1,Lena Radford,2,2,San Diego
+LC-16930,2,Linda Cazamias,3,11,Naperville
+LS-16945,2,Linda Southworth,4,10,Philadelphia
+LC-16960,3,Lindsay Castell,1,18,Arlington
+LS-16975,3,Lindsay Shagiari,2,2,Los Angeles
+LW-16990,2,Lindsay Williams,2,2,San Francisco
+LD-17005,1,Lisa DeCherney,2,2,San Francisco
+LH-17020,1,Lisa Hazard,4,24,Columbus
+LR-17035,2,Lisa Ryan,4,10,Philadelphia
+LC-17050,1,Liz Carlisle,2,2,Mission Viejo
+LM-17065,1,Liz MacKendrick,4,24,Springfield
+LP-17080,1,Liz Pelletier,2,2,San Francisco
+LP-17095,1,Liz Preis,1,1,Murray
+LT-17110,1,Liz Thompson,2,2,Lancaster
+LW-17125,1,Liz Willingham,4,29,Norwich
+LC-17140,1,Logan Currie,3,6,Dallas
+LH-17155,1,Logan Haushalter,2,2,San Francisco
+LO-17170,2,Lori Olson,2,2,La Quinta
+LF-17185,1,Luke Foster,1,3,Miami
+LS-17200,2,Luke Schmidt,3,11,Skokie
+LW-17215,1,Luke Weiss,2,2,Pasadena
+LS-17230,1,Lycoris Saunders,4,14,Dover
+LS-17245,1,Lynn Smith,3,25,Gladstone
+MM-17260,1,Magdelene Morse,4,14,Wilmington
+MC-17275,1,Marc Crier,1,28,Lafayette
+MH-17290,3,Marc Harrigan,2,2,Los Angeles
+MB-17305,1,Maria Bertelson,4,24,Akron
+ME-17320,3,Maria Etezadi,1,32,Columbus
+MZ-17335,3,Maria Zettner,2,2,San Diego
+MD-17350,1,Maribeth Dona,1,36,Fayetteville
+MS-17365,1,Maribeth Schnelling,3,13,Detroit
+MY-17380,2,Maribeth Yedwab,2,22,Parker
+ML-17395,2,Marina Lichtenstein,2,2,Los Angeles
+ML-17410,1,Maris LaWare,4,29,Fairfield
+MC-17425,2,Mark Cousins,1,20,Mobile
+MH-17440,2,Mark Haberlin,4,16,New York City
+MH-17455,1,Mark Hamilton,1,4,Jacksonville
+MP-17470,3,Mark Packer,4,16,New York City
+MV-17485,1,Mark Van Huff,1,18,Arlington
+MO-17500,1,Mary O'Rourke,4,16,New York City
+MZ-17515,2,Mary Zewe,2,2,Redlands
+MS-17530,1,MaryBeth Skach,2,2,San Diego
+MR-17545,3,Mathew Reese,4,10,Philadelphia
+MA-17560,3,Matt Abelman,3,6,Houston
+MC-17575,1,Matt Collins,4,24,Cincinnati
+MC-17590,2,Matt Collister,4,30,Perth Amboy
+MC-17605,2,Matt Connell,3,13,Detroit
+MH-17620,2,Matt Hagelstein,2,2,San Francisco
+MC-17635,2,Matthew Clasen,3,25,Saint Louis
+MG-17650,3,Matthew Grinstein,4,10,Philadelphia
+MF-17665,2,Maureen Fritzler,4,24,Toledo
+MG-17680,3,Maureen Gastineau,4,24,Newark
+MG-17695,1,Maureen Gnade,4,16,Buffalo
+MS-17710,1,Maurice Satty,2,17,Mesa
+ME-17725,1,Max Engle,2,22,Aurora
+MJ-17740,1,Max Jones,2,5,Seattle
+ML-17755,3,Max Ludwig,1,18,Suffolk
+MS-17770,1,Maxwell Schwartz,4,16,New York City
+MH-17785,2,Maya Herman,4,16,Lindenhurst
+MO-17800,3,Meg O'Connel,4,16,New York City
+MT-17815,1,Meg Tillman,2,17,Scottsdale
+MS-17830,1,Melanie Seite,3,6,Laredo
+MC-17845,1,Michael Chen,1,35,Jackson
+MD-17860,2,Michael Dominguez,3,15,Indianapolis
+MG-17875,3,Michael Grace,4,16,New York City
+MG-17890,3,Michael Granlund,4,37,Clinton
+MK-17905,2,Michael Kennedy,4,29,Manchester
+MM-17920,1,Michael Moore,2,2,San Francisco
+MN-17935,1,Michael Nguyen,3,6,Dallas
+MO-17950,1,Michael Oakman,3,6,Dallas
+MP-17965,2,Michael Paige,4,31,Lawrence
+MS-17980,2,Michael Stewart,3,6,Dallas
+MA-17995,3,Michelle Arnett,4,16,Watertown
+ME-18010,2,Michelle Ellison,2,2,San Francisco
+MH-18025,1,Michelle Huthwaite,2,5,Seattle
+ML-18040,2,Michelle Lonsdale,2,27,Albuquerque
+MM-18055,1,Michelle Moray,2,5,Seattle
+MT-18070,3,Michelle Tran,2,2,Los Angeles
+MB-18085,1,Mick Brown,4,30,Vineland
+MC-18100,1,Mick Crebagga,3,6,El Paso
+MH-18115,3,Mick Hernandez,4,10,Chester
+MC-18130,2,Mike Caudle,1,28,Monroe
+MG-18145,1,Mike Gockenbach,4,10,Philadelphia
+MK-18160,1,Mike Kennedy,1,3,Jacksonville
+MP-18175,3,Mike Pelletier,2,2,Laguna Niguel
+MV-18190,1,Mike Vittorini,4,16,New York City
+MG-18205,2,Mitch Gastineau,1,3,Jacksonville
+MW-18220,1,Mitch Webber,4,16,New York City
+MW-18235,2,Mitch Willingham,1,18,Virginia Beach
+MF-18250,2,Monica Federle,2,2,Los Angeles
+ML-18265,1,Muhammed Lee,2,5,Seattle
+MM-18280,2,Muhammed MacIntyre,3,11,Quincy
+MY-18295,2,Muhammed Yedwab,3,6,Grapevine
+NL-18310,3,Nancy Lomonaco,2,2,Los Angeles
+NP-18325,1,Naresj Patel,1,18,Waynesboro
+NC-18340,1,Nat Carroll,3,13,Lansing
+NG-18355,2,Nat Gilpin,4,16,New York City
+ND-18370,1,Natalie DeCherney,1,1,Louisville
+NF-18385,1,Natalie Fritzler,1,35,Jackson
+NW-18400,1,Natalie Webber,2,21,Tigard
+NC-18415,1,Nathan Cano,1,4,Jacksonville
+NG-18430,1,Nathan Gelder,4,24,Cincinnati
+NM-18445,3,Nathan Mautz,4,16,New York City
+ND-18460,2,Neil Ducich,1,32,Macon
+NF-18475,3,Neil Französisch,3,11,Rockford
+NK-18490,3,Neil Knudson,2,5,Seattle
+NS-18505,1,Neola Schneider,3,6,Dallas
+NM-18520,1,Neoma Murray,2,2,Riverside
+NC-18535,2,Nick Crebassa,3,6,Dallas
+NR-18550,1,Nick Radford,3,11,Aurora
+NZ-18565,3,Nick Zandusky,4,24,Columbus
+NB-18580,2,Nicole Brennan,4,10,Philadelphia
+NF-18595,3,Nicole Fjeld,4,16,New York City
+NH-18610,2,Nicole Hansen,3,6,Irving
+NC-18625,2,Noah Childs,2,22,Aurora
+NS-18640,2,Noel Staavos,3,11,Chicago
+NB-18655,2,Nona Balk,3,6,Dallas
+NP-18670,1,Nora Paige,3,26,Edmond
+NP-18685,3,Nora Pelletier,4,16,Niagara Falls
+NP-18700,1,Nora Preis,2,2,Fresno
+ON-18715,2,Odella Nelson,3,12,Eagan
+OT-18730,1,Olvera Toch,2,2,Los Angeles
+PC-18745,2,Pamela Coakley,2,2,San Francisco
+PS-18760,1,Pamela Stobb,2,2,Los Angeles
+PN-18775,3,Parhena Norris,4,16,New York City
+PH-18790,3,Patricia Hirasaki,1,3,Lakeland
+PB-18805,3,Patrick Bzostek,2,8,Salt Lake City
+PG-18820,1,Patrick Gardner,2,2,San Francisco
+PJ-18835,2,Patrick Jones,1,19,Murfreesboro
+PO-18850,1,Patrick O'Brill,4,10,Philadelphia
+PO-18865,1,Patrick O'Donnell,3,13,Westland
+PR-18880,1,Patrick Ryan,2,2,Oakland
+PG-18895,1,Paul Gonzalez,3,12,Rochester
+PK-18910,3,Paul Knutson,4,10,Philadelphia
+PL-18925,3,Paul Lucas,3,11,Chicago
+PM-18940,1,Paul MacIntyre,3,13,Jackson
+PP-18955,3,Paul Prost,1,32,Smyrna
+PS-18970,3,Paul Stevenson,3,11,Chicago
+PV-18985,3,Paul Van Hugh,2,2,San Francisco
+PC-19000,3,Pauline Chand,2,2,Los Angeles
+PJ-19015,1,Pauline Johnson,2,2,Santa Ana
+PW-19030,2,Pauline Webber,1,1,Richmond
+PS-19045,3,Penelope Sewall,1,4,Charlotte
+PA-19060,3,Pete Armstrong,3,11,Orland Park
+PK-19075,1,Pete Kriz,3,7,Madison
+PT-19090,1,Pete Takahito,3,6,Houston
+PB-19105,1,Peter Bühler,3,11,Evanston
+PF-19120,1,Peter Fuller,2,17,Gilbert
+PM-19135,3,Peter McVee,3,13,Detroit
+PB-19150,1,Philip Brown,2,2,Los Angeles
+PF-19165,1,Philip Fox,3,11,Bloomington
+PO-19180,3,Philisse Overcash,3,11,Chicago
+PO-19195,3,Phillina Ober,3,11,Naperville
+PB-19210,2,Phillip Breyer,3,26,Tulsa
+PF-19225,1,Phillip Flathmann,2,2,San Francisco
+PW-19240,1,Pierre Wener,2,22,Louisville
+QJ-19255,2,Quincy Jones,3,12,Saint Paul
+RP-19270,2,Rachel Payne,2,2,Riverside
+RA-19285,1,Ralph Arnett,4,16,New York City
+RK-19300,1,Ralph Kennedy,4,10,Philadelphia
+RR-19315,1,Ralph Ritter,2,2,San Francisco
+RB-19330,1,Randy Bradley,4,10,Philadelphia
+RF-19345,2,Randy Ferguson,4,40,Dover
+RB-19360,1,Raymond Buch,4,16,Auburn
+RM-19375,1,Raymond Messe,3,6,Houston
+RP-19390,1,Resi Pölking,4,24,Cleveland
+RE-19405,1,Ricardo Emerson,4,24,Kent
+RS-19420,2,Ricardo Sperren,2,5,Seattle
+RB-19435,1,Richard Bierner,3,25,Saint Louis
+RE-19450,1,Richard Eichhorn,3,6,Dallas
+RB-19465,3,Rick Bensley,3,11,Chicago
+RD-19480,1,Rick Duston,2,5,Olympia
+RH-19495,1,Rick Hansen,3,12,Rochester
+RH-19510,3,Rick Huthwaite,4,34,Providence
+RR-19525,2,Rick Reed,4,31,Lowell
+RW-19540,2,Rick Wilson,2,17,Mesa
+RH-19555,1,Ritsa Hightower,1,3,Tallahassee
+RB-19570,1,Rob Beeghly,3,15,Columbus
+RD-19585,1,Rob Dowd,1,1,Henderson
+RH-19600,1,Rob Haberlin,1,20,Huntsville
+RL-19615,1,Rob Lucas,1,20,Montgomery
+RW-19630,2,Rob Williams,3,6,Dallas
+RB-19645,2,Robert Barroso,2,33,North Las Vegas
+RD-19660,3,Robert Dilbeck,3,25,Saint Peters
+RM-19675,3,Robert Marley,1,28,Monroe
+RW-19690,1,Robert Waldorf,1,4,Wilmington
+RB-19705,3,Roger Barcio,2,21,Portland
+RD-19720,1,Roger Demir,1,3,Daytona Beach
+RF-19735,1,Roland Fjeld,3,13,Trenton
+RM-19750,1,Roland Murray,4,16,New York City
+RS-19765,2,Roland Schwarz,4,16,Mount Vernon
+RO-19780,1,Rose O'Brian,1,19,Memphis
+RB-19795,3,Ross Baird,1,4,Gastonia
+RD-19810,3,Ross DeVincentis,2,2,Los Angeles
+RC-19825,1,Roy Collins,3,11,Chicago
+RF-19840,1,Roy Französisch,4,16,New York City
+RP-19855,2,Roy Phan,3,7,Kenosha
+RS-19870,3,Roy Skaria,3,23,Burlington
+RA-19885,2,Ruben Ausman,2,2,Los Angeles
+RD-19900,1,Ruben Dartt,2,27,Carlsbad
+RA-19915,1,Russell Applegate,3,6,Houston
+RD-19930,1,Russell D'Ascenzo,3,6,Austin
+RA-19945,1,Ryan Akin,2,2,Murrieta
+RC-19960,1,Ryan Crowe,4,24,Columbus
+SH-19975,2,Sally Hughsby,2,2,San Francisco
+SK-19990,1,Sally Knutson,4,29,Fairfield
+SM-20005,1,Sally Matthias,4,16,New York City
+SC-20020,1,Sam Craven,3,6,Plano
+SZ-20035,3,Sam Zeldin,2,2,Pico Rivera
+SC-20050,3,Sample Company A,4,29,Norwich
+SF-20065,1,Sandra Flanagan,4,10,Philadelphia
+SG-20080,1,Sandra Glassco,3,25,Independence
+SC-20095,1,Sanjit Chand,2,2,Concord
+SE-20110,1,Sanjit Engle,4,16,New York City
+SJ-20125,3,Sanjit Jacobs,4,30,New Brunswick
+SS-20140,2,Saphhira Shifley,4,34,Warwick
+SL-20155,3,Sara Luxemburg,1,3,Jacksonville
+SB-20170,1,Sarah Bern,4,16,New York City
+SB-20185,1,Sarah Brown,4,40,Concord
+SF-20200,1,Sarah Foster,2,5,Marysville
+SJ-20215,1,Sarah Jordon,3,6,Grand Prairie
+SC-20230,2,Scot Coram,3,6,Arlington
+SW-20245,1,Scot Wooten,2,2,Stockton
+SC-20260,2,Scott Cohen,2,2,San Francisco
+SW-20275,1,Scott Williamson,1,35,Jackson
+SB-20290,2,Sean Braxton,3,6,Houston
+SC-20305,1,Sean Christensen,3,13,Rochester Hills
+SM-20320,3,Sean Miller,1,4,Monroe
+SO-20335,1,Sean O'Donnell,1,3,Fort Lauderdale
+SW-20350,3,Sean Wendt,3,13,Detroit
+SV-20365,1,Seth Vernon,4,14,Dover
+SC-20380,1,Shahid Collister,2,5,Seattle
+SH-20395,1,Shahid Hopkins,1,18,Arlington
+SS-20410,1,Shahid Shariari,2,2,Los Angeles
+SR-20425,3,Sharelle Roach,2,22,Louisville
+SC-20440,2,Shaun Chance,2,22,Aurora
+SW-20455,1,Shaun Weien,1,18,Suffolk
+SG-20470,1,Sheri Gordon,4,16,New York City
+SD-20485,3,Shirley Daniels,4,16,New Rochelle
+SJ-20500,1,Shirley Jackson,3,6,Houston
+SS-20515,3,Shirley Schmidt,1,1,Louisville
+ST-20530,1,Shui Tom,4,24,Parma
+SP-20545,2,Sibella Parks,4,16,New York City
+SN-20560,3,Skye Norling,2,2,Los Angeles
+SC-20575,1,Sonia Cooley,3,15,Mishawaka
+SS-20590,1,Sonia Sunley,2,5,Seattle
+SG-20605,1,Speros Goranitis,4,16,New York City
+SP-20620,2,Stefania Perrino,4,10,Philadelphia
+SH-20635,2,Stefanie Holloman,1,19,Jackson
+SP-20650,2,Stephanie Phelps,2,2,San Jose
+SU-20665,3,Stephanie Ulpright,1,35,Jackson
+SC-20680,3,Steve Carroll,1,32,Columbus
+SC-20695,2,Steve Chapman,1,3,Hialeah
+SN-20710,3,Steve Nguyen,3,6,Houston
+SC-20725,1,Steven Cartwright,4,14,Wilmington
+SR-20740,3,Steven Roelle,4,16,New York City
+SW-20755,2,Steven Ward,4,16,New York City
+SC-20770,2,Stewart Carmichael,1,20,Decatur
+SV-20785,1,Stewart Visinsky,2,22,Pueblo
+SC-20800,1,Stuart Calhoun,3,6,Houston
+SV-20815,2,Stuart Van,3,6,Houston
+SA-20830,1,Sue Ann Reed,3,11,Chicago
+SC-20845,1,Sung Chung,3,11,Arlington Heights
+SP-20860,2,Sung Pak,4,10,Philadelphia
+SS-20875,1,Sung Shariari,3,6,Dallas
+SG-20890,2,Susan Gilcrest,3,6,Mcallen
+SM-20905,1,Susan MacKendrick,4,24,Newark
+SP-20920,1,Susan Pistek,2,2,Los Angeles
+SV-20935,1,Susan Vittorini,4,16,New York City
+SM-20950,2,Suzanne McNair,1,4,Greenville
+SF-20965,2,Sylvia Foulston,3,13,Dearborn
+TC-20980,2,Tamara Chand,2,5,Seattle
+TD-20995,1,Tamara Dahlen,4,31,Lowell
+TM-21010,1,Tamara Manning,2,2,San Francisco
+TW-21025,3,Tamara Willingham,2,17,Scottsdale
+TN-21040,3,Tanja Norvell,2,17,Phoenix
+TB-21055,1,Ted Butterfield,4,16,Troy
+TT-21070,1,Ted Trevino,2,2,Los Angeles
+TS-21085,1,Thais Sissman,2,17,Phoenix
+TH-21100,1,Thea Hendricks,2,2,Los Angeles
+TH-21115,2,Thea Hudgings,4,10,Philadelphia
+TP-21130,1,Theone Pippenger,4,10,Philadelphia
+TC-21145,2,Theresa Coyne,4,30,Lakewood
+TS-21160,2,Theresa Swint,4,24,Toledo
+TB-21175,2,Thomas Boland,3,6,Houston
+TB-21190,3,Thomas Brumley,1,36,Fayetteville
+TS-21205,2,Thomas Seio,4,30,Hackensack
+TT-21220,1,Thomas Thornton,3,6,Houston
+TH-21235,2,Tiffany House,3,6,Dallas
+TB-21250,1,Tim Brockman,4,16,New York City
+TT-21265,2,Tim Taslimi,2,2,Los Angeles
+TB-21280,1,Toby Braunhardt,4,38,Washington
+TC-21295,1,Toby Carlisle,2,2,San Diego
+TG-21310,1,Toby Gnade,2,2,Los Angeles
+TR-21325,1,Toby Ritter,4,30,Belleville
+TS-21340,1,Toby Swindell,3,6,Houston
+TB-21355,2,Todd Boyes,4,16,New York City
+TS-21370,2,Todd Sumrall,4,16,New York City
+TA-21385,3,Tom Ashbrook,4,16,New York City
+TB-21400,1,Tom Boeckenhauer,2,5,Seattle
+TP-21415,1,Tom Prescott,2,5,Seattle
+TS-21430,2,Tom Stivers,2,2,Los Angeles
+TT-21460,3,Tonja Turnell,3,11,Aurora
+TC-21475,3,Tony Chapman,1,32,Columbus
+TM-21490,1,Tony Molinari,3,26,Oklahoma City
+TS-21505,1,Tony Sayre,1,19,Columbia
+TB-21520,1,Tracy Blumstein,4,10,Philadelphia
+TC-21535,3,Tracy Collins,1,18,Arlington
+TH-21550,3,Tracy Hopkins,4,16,New York City
+TP-21565,2,Tracy Poddar,2,22,Aurora
+TZ-21580,1,Tracy Zic,2,22,Louisville
+TB-21595,1,Troy Blackwell,3,15,Columbus
+TS-21610,1,Troy Staebel,2,17,Phoenix
+TB-21625,1,Trudy Brown,3,6,Grand Prairie
+TG-21640,1,Trudy Glocke,2,2,Long Beach
+TS-21655,1,Trudy Schmidt,3,7,Milwaukee
+VD-21670,1,Valerie Dominguez,1,19,Columbia
+VM-21685,3,Valerie Mitchum,4,30,Westfield
+VT-21700,3,Valerie Takahito,4,10,Philadelphia
+VF-21715,3,Vicky Freymann,3,15,Columbus
+VP-21730,3,Victor Preis,2,33,Las Vegas
+VB-21745,2,Victoria Brennan,1,32,Columbus
+VP-21760,2,Victoria Pisteka,2,2,San Francisco
+VW-21775,2,Victoria Wilson,4,24,Medina
+VG-21790,1,Vivek Gonzalez,2,2,San Diego
+VG-21805,2,Vivek Grady,1,18,Virginia Beach
+VS-21820,1,Vivek Sundaresam,2,2,Los Angeles
+VM-21835,1,Vivian Mathis,4,14,Newark
+WB-21850,1,William Brown,4,10,Philadelphia
+XP-21865,1,Xylona Preis,2,2,San Diego
+YS-21880,2,Yana Sorensen,1,4,Burlington
+YC-21895,2,Yoseph Carroll,2,2,San Francisco
+ZC-21910,1,Zuschuss Carroll,2,21,Salem
+ZD-21925,1,Zuschuss Donatelli,2,2,San Francisco
